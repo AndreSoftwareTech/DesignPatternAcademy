@@ -1,0 +1,15 @@
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesCriacao\bin\Debug\net8.0\PadroesCriacao.exe
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesCriacao\bin\Debug\net8.0\PadroesCriacao.deps.json
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesCriacao\bin\Debug\net8.0\PadroesCriacao.runtimeconfig.json
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesCriacao\bin\Debug\net8.0\PadroesCriacao.dll
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesCriacao\bin\Debug\net8.0\PadroesCriacao.pdb
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesCriacao\obj\Debug\net8.0\PadroesCriacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesCriacao\obj\Debug\net8.0\PadroesCriacao.AssemblyInfoInputs.cache
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesCriacao\obj\Debug\net8.0\PadroesCriacao.AssemblyInfo.cs
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesCriacao\obj\Debug\net8.0\PadroesCriacao.csproj.CoreCompileInputs.cache
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesCriacao\obj\Debug\net8.0\PadroesCriacao.sourcelink.json
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesCriacao\obj\Debug\net8.0\PadroesCriacao.dll
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesCriacao\obj\Debug\net8.0\refint\PadroesCriacao.dll
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesCriacao\obj\Debug\net8.0\PadroesCriacao.pdb
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesCriacao\obj\Debug\net8.0\PadroesCriacao.genruntimeconfig.cache
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesCriacao\obj\Debug\net8.0\ref\PadroesCriacao.dll

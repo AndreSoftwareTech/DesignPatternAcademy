@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using PadroesCriacao.PatternsCriacao.FactoryMethod;
+Console.WriteLine("Padroes de Criacao Factory Method");
+
+Cliente cliente = new Cliente();
+
+cliente.Executar();
+

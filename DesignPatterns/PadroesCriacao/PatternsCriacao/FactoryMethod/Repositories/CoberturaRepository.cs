@@ -1,13 +1,13 @@
-﻿using PadroesCriacao.PatternsCriacao.Services;
+﻿using PadroesCriacao.PatternsCriacao.FactoryMethod.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PadroesCriacao.PatternsCriacao.Repositories
+namespace PadroesCriacao.PatternsCriacao.FactoryMethod.Repositories
 {
-    public class CoberturaRepository:IServico
+    public class CoberturaRepository : IServico
     {
         public CoberturaRepository()
         {
@@ -16,7 +16,7 @@ namespace PadroesCriacao.PatternsCriacao.Repositories
 
         public void ExecutaCobranca()
         {
-            
+
         }
     }
 }
