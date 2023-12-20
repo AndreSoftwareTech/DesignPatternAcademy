@@ -24,12 +24,11 @@ public class Cliente
             Console.WriteLine("Digite o numero do servico desejado");
 
             int tipoServico = Convert.ToInt32 (Console.ReadLine());
-
             var servicoProduto = cliente.FabricarProduto((eTiposServicos)tipoServico);
+
             Console.WriteLine("Deseja Continuar?\n1-Sim\n2-nao");
             int resp = Convert.ToInt32(Console.ReadLine());
             continuar = resp == 1;
-
 
         }
     }

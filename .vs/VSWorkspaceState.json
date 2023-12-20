@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\DesignPatterns"
+    "\\DesignPatterns",
+    "\\DesignPatterns\\PadroesCriacao"
   ],
-  "SelectedNode": "\\DesignPatterns\\DesignPatterns.sln",
+  "SelectedNode": "\\DesignPatterns\\PadroesCriacao\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\PadroesCriacao",
-    "\\PadroesCriacao\\PatternsCriacao"
+    "\\PadroesCriacao\\PatternsCriacao",
+    "\\PadroesCriacao\\PatternsCriacao\\FactoryMethod"
   ],
-  "SelectedNode": "\\PadroesCriacao\\PatternsCriacao\\FactoryMethod",
+  "SelectedNode": "\\PadroesCriacao\\PatternsCriacao\\FactoryMethod\\Cliente.cs",
   "PreviewInSolutionExplorer": false
 }

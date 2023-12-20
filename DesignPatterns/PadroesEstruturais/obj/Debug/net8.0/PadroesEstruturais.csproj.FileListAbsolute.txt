@@ -1,0 +1,15 @@
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesEstruturais\bin\Debug\net8.0\PadroesEstruturais.exe
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesEstruturais\bin\Debug\net8.0\PadroesEstruturais.deps.json
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesEstruturais\bin\Debug\net8.0\PadroesEstruturais.runtimeconfig.json
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesEstruturais\bin\Debug\net8.0\PadroesEstruturais.dll
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesEstruturais\bin\Debug\net8.0\PadroesEstruturais.pdb
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesEstruturais\obj\Debug\net8.0\PadroesEstruturais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesEstruturais\obj\Debug\net8.0\PadroesEstruturais.AssemblyInfoInputs.cache
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesEstruturais\obj\Debug\net8.0\PadroesEstruturais.AssemblyInfo.cs
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesEstruturais\obj\Debug\net8.0\PadroesEstruturais.csproj.CoreCompileInputs.cache
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesEstruturais\obj\Debug\net8.0\PadroesEstruturais.sourcelink.json
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesEstruturais\obj\Debug\net8.0\PadroesEstruturais.dll
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesEstruturais\obj\Debug\net8.0\refint\PadroesEstruturais.dll
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesEstruturais\obj\Debug\net8.0\PadroesEstruturais.pdb
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesEstruturais\obj\Debug\net8.0\PadroesEstruturais.genruntimeconfig.cache
+D:\Repositorios\DesignPatternAcademy\DesignPatterns\PadroesEstruturais\obj\Debug\net8.0\ref\PadroesEstruturais.dll
